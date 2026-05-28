@@ -1,0 +1,1 @@
+i calibrated with the first resistor, then did 3 runs, changed it another 10k resistor
