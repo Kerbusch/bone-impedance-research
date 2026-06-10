@@ -7,7 +7,7 @@ from pathlib import Path
 # FILE CONFIGURATION
 # =========================================================
 
-CSV_FILE = "sweep.csv"
+CSV_FILE = "sweep_20260528_114405.csv"
 
 # Get filename without extension
 base_filename = Path(CSV_FILE).stem
